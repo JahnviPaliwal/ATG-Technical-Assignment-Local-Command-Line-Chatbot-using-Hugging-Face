@@ -20,7 +20,7 @@ The project consists of three main Python files:
   Implements the CLI loop that takes user input, checks FAQs, generates responses using the model, and manages chat history.
 
 ## Video file link
-[![Chatbot Demo](https://drive.google.com/file/d/13wv_E-Pw4LrBHDyRccPM6oQRz_qp0dzd/view?usp=sharing)
+[Chatbot Demo](https://drive.google.com/file/d/13wv_E-Pw4LrBHDyRccPM6oQRz_qp0dzd/view?usp=sharing)
 
 ## Setup Instructions
 
